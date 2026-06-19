@@ -8,7 +8,7 @@ yüzden sayfa yenilense bile görevler kaybolmaz.
 
 ## 🚀 Canlı Demo
 
-- **Netlify:** _(yayına aldıktan sonra buraya linki ekleyin)_
+- **Netlify:** https://resonant-pegasus-e14825.netlify.app
 
 ## 🖼️ Ekran Görüntüsü
 
