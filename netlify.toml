@@ -1,0 +1,10 @@
+# Netlify yayın ayarları
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# SPA yönlendirmesi: tüm yolları index.html'e döndür
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
