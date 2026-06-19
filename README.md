@@ -81,4 +81,4 @@ npm run preview
 
 ---
 
-Geliştirici: _adınız_ · Web Geliştirme JavaScript Projesi
+Geliştirici: **Yusuf Eren Dokumacı** · Web Geliştirme JavaScript Projesi
